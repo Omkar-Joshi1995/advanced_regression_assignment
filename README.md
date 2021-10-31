@@ -20,7 +20,7 @@ Also, determine the optimal value of lambda for ridge and lasso regression.
 
  
 
-##Business Goal 
+## Business Goal 
 
  
 
@@ -28,7 +28,7 @@ You are required to model the price of houses with the available independent var
 
  
  
-#Data Definition
+## Data Definition
 
 MSSubClass: Identifies the type of dwelling involved in the sale.	
 
