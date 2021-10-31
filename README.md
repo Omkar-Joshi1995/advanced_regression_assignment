@@ -20,7 +20,7 @@ Also, determine the optimal value of lambda for ridge and lasso regression.
 
  
 
-Business Goal 
+##Business Goal 
 
  
 
@@ -28,4 +28,3 @@ You are required to model the price of houses with the available independent var
 
  
 
-Downloads
